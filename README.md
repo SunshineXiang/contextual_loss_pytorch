@@ -1,4 +1,4 @@
-# Contextual Loss
+# Contextual Loss Copy https://github.com/S-aiueo32
 PyTorch implementation of Contextual Loss (CX) and Contextual Bilateral Loss (CoBi).
 
 ## Introduction
